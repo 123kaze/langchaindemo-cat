@@ -1,0 +1,33 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 环境变量
+.env
+
+# IDE 和项目配置文件
+.idea/
+*.iml
+
+# 数据库/知识库文件
+neko_chroma_db/
+
+# =========================
+# 网关相关 (不上传)
+# =========================
+gateway.py
+gateway_enhanced.py
+gateway_with_botpy.py
+start_gateway.sh
+platform_configs.py
+qq.py
+
+# =========================
+# 测试与 Demo 相关 (不上传)
+# =========================
+demo_usage.py
+demo_results.json
+test_my_tools.py
+123
+Rag.ipynb
