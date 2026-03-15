@@ -14,8 +14,6 @@
 
 - `Agent.py`：Agent 的主程序入口，包含了交互逻辑、提示词定义和 LangChain Agent 的创建。
 - `Rag_tools.py`：RAG 相关的工具集，负责加载本地 Chroma 数据库以提供知识库查询（`query_knowledge_base`）功能。
-- `my_tools.py`：通用的基础工具函数定义。
-- `advanced_tools.py`：更高级深入的分析处理工具定义（如文本分析、代码块提取等）。
 
 *注意：本项目的一些测试文件、展示 Demo 和第三方网关代码均已在 `.gitignore` 中忽略。*
 
