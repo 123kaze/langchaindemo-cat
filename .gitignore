@@ -22,6 +22,7 @@ gateway_with_botpy.py
 start_gateway.sh
 platform_configs.py
 qq.py
+advanced_tools.py
 
 # =========================
 # 测试与 Demo 相关 (不上传)
